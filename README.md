@@ -1,2 +1,2 @@
 # İlk Web Sayfam
-Okul projesi için sadece HTML ile yazdığım sayfa
+Okul projesi için sadece HTML kullanarak yazdığım gezegen temalı sayfa
